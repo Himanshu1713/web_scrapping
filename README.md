@@ -31,8 +31,6 @@ A Pandas DataFrame is created from the lists.
 # CSV Export: 
 The DataFrame is exported to a CSV file for further analysis.
 # Important Notes
-# Compliance:
-Ensure that web scraping complies with Flipkart's terms of service and legal guidelines.
 # HTML Structure: 
 The HTML structure of the Flipkart website may change over time, which could necessitate updates to the scraping logic.
 # Pagination: 
